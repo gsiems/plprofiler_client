@@ -56,7 +56,7 @@ procedures and whether they were executed or not.
 The profiler report contains a hot spots section that lists the
 functions/procedures that have either the highest total self-time or the
 highest average self-time as well as a details section that lists the profile
-data that was gathered for all functions and procedures with.
+data that was gathered for all functions and procedures.
 
 ![Profile report](doc/profile.png)
 
