@@ -12,8 +12,8 @@ test coverage.
 Wanting different reporting than that provided by python client and not wanting
 to deal with maintaining a separate python install just to run one CLI app
 resulted in extracting queries from the python and storing them in the
-database. Adding a couple of new reports and some shell (bash actually)
-scripting and this tool was born.
+database. The remainder is the result of simply adding a couple of new reports
+and some shell (bash actually) scripting.
 
 # Usage
 
